@@ -1,5 +1,6 @@
 ---
 title: "Untitled"
+author: "Luke Thilmony, Allen Choi, Cameron White"
 format: html
 editor: visual
 ---
